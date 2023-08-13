@@ -1,0 +1,3 @@
+Spotify.exe: 000
+chrome.exe: 000
+Discord.exe: 000
