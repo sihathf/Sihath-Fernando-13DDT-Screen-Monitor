@@ -45,7 +45,7 @@ labeltop = Label(root, image=imagetop, bg='white')
 labeltop.grid(row=0, column=0)
 
 # Load an image for a button
-click_btn = Image.open(r"C:\Users\Sihath Fernando\Downloads\Sihath Fernando 13DDT Project v1\images\track.PNG")
+click_btn = Image.open(r"images\track.PNG")
 click_btn = ImageTk.PhotoImage(click_btn)
 
 # Create a button with the loaded image and a command
@@ -53,7 +53,7 @@ button = Button(root, image=click_btn, borderwidth=5, command=open_track)
 button.grid(row=6, column=0, padx=10, pady=5)
 
 # Load another image for a button
-click_btn2 = Image.open(r"C:\Users\Sihath Fernando\Downloads\Sihath Fernando 13DDT Project v1\images\data.PNG")
+click_btn2 = Image.open(r"images\data.PNG")
 click_btn2 = ImageTk.PhotoImage(click_btn2)
 
 # Create another button with the loaded image and a command
