@@ -14,4 +14,5 @@ matplotlib      3.7.2
 
 Important message: If while the timer is started and is tracking dont close the apps
 which are already running. 
+For the app to keep on tracking the time please stay on the track page and do not switch between pages.
 Code will only run on windows
